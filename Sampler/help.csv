@@ -1,0 +1,8 @@
+step;text
+1;shyine-app zum Ziehen einer GKV-aequivalenten Stichprobe
+2;Entwickelt fuer DOI: 10.1007/s10198-019-01079-6
+3;Verfahren in Anlehnung an DOI: 10.1093/pan/mpr025
+4;Ein Beispiel für Randverteilungen liegt im "data" Ordner
+5;Ein Datenbeispiel fuer Routinedaten einer Krankenkasse liegt ebenfalls im "data" Ordner
+6;Shiny-code entwickelt auf der Grundlage von: https://ceefluz.shinyapps.io/radar/
+7;Copyright: GNU General Public License (GPL) v2.0
